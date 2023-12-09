@@ -1,4 +1,5 @@
 import { Carousel, ProgressBar } from 'react-bootstrap';
+import 'animate.css';
 import image1 from '../assets/Medias/img1.jpg';
 import image2 from '../assets/Medias/img2.webp';
 import image3 from '../assets/Medias/success.jpg';
@@ -15,7 +16,7 @@ const Home = () => {
             />
               
             <Carousel.Caption>
-              <p className='para1 text-white fw-bolder animate__backInDown'>Mezue Obiora Is A Fullstack Software Developer.</p>
+              <p className='para1 text-white fw-bolder animate__animated animate__backInDown'>Mezue Obiora Is A Fullstack Software Developer.</p>
             </Carousel.Caption>
           </Carousel.Item>
 
