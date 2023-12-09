@@ -89,9 +89,9 @@ body {
 
 
 .control {
-  height: 50px;
+  height: 45px;
   border: none;
-  border-radius: 20px;
+  border-radius: 10px;
 }
 
 
@@ -103,7 +103,7 @@ body {
 
 
 
-#footer {
+footer {
   background-color:rgb(244 187 1);
   text-align: center;
 }

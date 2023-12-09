@@ -6,6 +6,7 @@ import Pricing from "./Components/Pricing";
 import Blog from "./Components/Blog";
 import Testimonial from "./Components/Testimonial";
 import Contact from "./Components/Contact";
+import Footer from "./Components/Footer";
 import { Tooltip } from 'react-tooltip'
 
 
@@ -25,6 +26,7 @@ function App() {
         <Blog />
         <Testimonial />
         <Contact />
+        <Footer  />
       </main> 
     </>
   )
