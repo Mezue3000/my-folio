@@ -31,3 +31,109 @@ body {
   z-index: 100;
   margin-top:10px;
 }
+
+
+.heading1 {
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  display: flex;
+  align-items: center;
+  margin-left: 195px;
+} 
+
+
+
+.para1 {
+  font-size: 35px;
+}
+
+
+.about {
+  text-align: center;
+  color: white;
+}
+
+
+
+.about2 {
+  text-align: center;
+  color: rgba(255, 255, 255, 0.644);
+}
+
+
+.abt-section {
+  background-color: green;  
+}
+
+
+
+.work-image {
+  height:100%;
+  width: 100%;
+  border-radius: 50px;
+}
+
+
+
+.pricing {
+  background-color: green;
+}
+
+
+
+.testimonial {
+  background-color: green;
+}
+
+
+
+.control {
+  height: 50px;
+  border: none;
+  border-radius: 20px;
+}
+
+
+
+.map {
+  height: 400px;
+  background-color:green;
+}
+
+
+
+#footer {
+  background-color:rgb(244 187 1);
+  text-align: center;
+}
+
+
+
+.iconf {
+  font-size:30px;
+  padding-top: 25px;
+  display: flex;
+  justify-content: space-evenly;
+  width: 50%;
+  margin-left: 25%;
+}
+
+
+.copy {
+  margin-top: 30px;
+}
+
+
+
+.work-image:hover {
+  animation-duration: 3s;
+  animation-iteration-count:30;
+}
+
+
+
+.animate1:hover {
+  background-color: wheat;
+  border-radius: 50px;
+}

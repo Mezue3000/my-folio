@@ -1,5 +1,5 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from "./Components/Header";
+import Home from './Components/Home';
 import { Tooltip } from 'react-tooltip'
 
 
@@ -10,8 +10,10 @@ function App() {
         <Header />
         <Tooltip id="my-tooltip" className='bg-success index' />
       </header>
-
-     
+ 
+      <main>
+        <Home />
+      </main> 
     </>
   )
 }
