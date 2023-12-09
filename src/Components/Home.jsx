@@ -16,7 +16,7 @@ const Home = () => {
             />
               
             <Carousel.Caption>
-              <p className='para1 text-white fw-bolder animate__animated animate__backInDown'>Mezue Obiora Is A Fullstack Software Developer.</p>
+              <p className='para1 text-white fw-bolder animate__animated animate__backInDown'>Mezue Obiora Is   A Fullstack Software Developer.</p>
             </Carousel.Caption>
           </Carousel.Item>
 

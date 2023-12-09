@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import 'animate.css';
 import { Container, Row, Col, Image } from 'react-bootstrap';
 import work2 from '../assets/Medias/work 2.webp';
