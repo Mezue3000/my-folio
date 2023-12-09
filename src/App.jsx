@@ -2,6 +2,7 @@ import Header from "./Components/Header";
 import Home from './Components/Home';
 import About from './Components/About';
 import Work from "./Components/Work";
+import Pricing from "./Components/Pricing";
 import { Tooltip } from 'react-tooltip'
 
 
@@ -17,6 +18,7 @@ function App() {
         <Home />
         <About />
         <Work />
+        <Pricing />
       </main> 
     </>
   )
