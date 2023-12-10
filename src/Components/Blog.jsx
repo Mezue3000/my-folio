@@ -13,7 +13,7 @@ const Blog = () => {
             </div>
             <Row xs={1} sm={2} md={3} className='pt-3' >
                 <Col>
-                    <Card style={{ width: '16rem' }}>
+                    <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={workF} />
                         <Card.Body>
                             <Card.Title>Valentine Gift</Card.Title>
@@ -26,7 +26,7 @@ const Blog = () => {
                     </Card>
                 </Col>
                 <Col>
-                    <Card style={{ width: '16rem' }}>
+                    <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={work4} />
                         <Card.Body>
                             <Card.Title>Global Office</Card.Title>
@@ -39,7 +39,7 @@ const Blog = () => {
                     </Card>
                 </Col>
                 <Col>
-                    <Card style={{ width: '16rem' }}>
+                    <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={workA} />
                         <Card.Body>
                             <Card.Title>Visa Lounge</Card.Title>

@@ -10,7 +10,7 @@ import Footer from "./Components/Footer";
 import { Tooltip } from 'react-tooltip'
 
 
-function App() {
+const App = () => {
   return (
     <>
       <header id="header">
